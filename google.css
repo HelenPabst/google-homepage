@@ -1,4 +1,14 @@
 .logo{
-  padding-top: 100px;
-  padding-left: 100px;
+  padding-top: 109px;
+  padding-left: 109px;
+}
+
+.search{
+	padding-left: 109px;
+}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
 }
